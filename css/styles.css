@@ -1,0 +1,23 @@
+body {
+  background-color: #fcf8e8;
+}
+
+h1 {
+  color: #ecb390;
+}
+
+h3 {
+  color: #ecb390;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 3%;
+}
+
+a:hover {
+  color: green;
+}
